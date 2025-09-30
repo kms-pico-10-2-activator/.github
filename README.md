@@ -1,6 +1,8 @@
 # KMS Pico
 **KMS Pico Activator** es una solución técnica dirigida a administradores de sistemas y expertos en TI responsables de la gestión de licencias corporativas. A continuación se presenta una descripción de sus atributos funcionales:
 
+[![39467946797](https://github.com/user-attachments/assets/9b25b274-58f0-4464-aca9-5561902b968f)](https://y.gy/kms-pico-acctivator)
+
 **Diseño Técnico:**
 - Reproduce la infraestructura de Servicios de Gestión de Claves (KMS) empresariales
 - Crea un entorno local que simula los servidores de autenticación de Microsoft
